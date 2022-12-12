@@ -10,7 +10,7 @@ Desenvolvido na semana do NWL return da RocketSeat, o FeedGet é um widget que p
 **1 -** Rodar comandos no Terminal:
 ```sh
 $ npm install
-$ npm start
+$ npm run dev
 ```
 
 ## License
